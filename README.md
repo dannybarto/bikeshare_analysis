@@ -10,8 +10,6 @@ NYC Citibike with Tableau
 ## Overview of the statistical analysis:
 The city of Des Moines, IA has requested bikeshare data to be analyzed to determine the feasibility of a bikeshare program there. Citibike data from New York City's program for the month of August 2019 was used to determine whether or not this would be a good investment for Des Moines.  
 
-## Link to Tableau Story: 
-[Tableau Story]
 
 ## Cleaning the Data:
 Jupyter Notebook was used to change the trip duration data to a datetime field.
