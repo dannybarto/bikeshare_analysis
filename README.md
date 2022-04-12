@@ -48,7 +48,3 @@ For NYC, there were a few notableareas of interest.   Several trips originated o
 
 1. The optimal window for bike repairs is between 1am and 5am.
 2. Males are the top users  
-
-## Additional Analysis: 
-
-For NYC, there are some notable areas of interest.  Some trips were outside the main city center.  Other areas followed the along the river. Future analysis would need to include a geographical review.
