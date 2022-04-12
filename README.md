@@ -42,31 +42,13 @@ For NYC, there were a few notableareas of interest.   Several trips originated o
 
 
 ### 7. Number of Rides with Bike ID
-[Number of Rides with Bike ID](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Repair)
-The divergence line shows that there are high use on 1/3 of the bikes.
-![Pic7](https://github.com/Baylex/Citibike/blob/main/Challenge/images/6_Repairs.PNG)
+![Pic7](https://github.com/dannybarto/bikeshare_analysis/blob/main/Challenge/images/Repair_Grid.png?raw=true)
 
 ## Summary:
 
-1. Bike Repairs for 1/3 of the Citibikes need to be done during non-peak hours around 1-5 am. 
-2. Male subscribers are the highest users and follow the traditional high use times of travel to and from work.  
-3. Target market should be males needing transportation to work and weekend activities and push for subscribing to the services. 
+1. The optimal window for bike repairs is between 1am and 5am.
+2. Males are the top users  
 
 ## Additional Analysis: 
 
-For NYC, there were some interesting geographical areas of interest.  Some trips were outside the main city center.  Other areas followed the along the river. Future analysis would need to include a geographical review.
-
-### 1. Ride Starting Locations by Gender
-[Ride Starting Locations by Gender](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Start)
-Males are more likely to start a trip farther than the main city center of NYC than others. 
-![Pic8](https://github.com/Baylex/Citibike/blob/main/Challenge/images/extra1.PNG)
-
-### 2. Ride Ending Locations by Gender
-[Ride Ending Locations by Gender](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/End)
-Males are more likely end a trip across the river in the southwest area of NYC than others. 
-![Pic9](https://github.com/Baylex/Citibike/blob/main/Challenge/images/extra2.PNG)
-
-### 3. User Type Starting Location
-[User Type Starting Location](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/UserTypeMap)
-Subscribers are more likely to start trip farther than the main city center of NYC than others. 
-![Pic10](https://github.com/Baylex/Citibike/blob/main/Challenge/images/extra3.PNG)
+For NYC, there are some notable areas of interest.  Some trips were outside the main city center.  Other areas followed the along the river. Future analysis would need to include a geographical review.
