@@ -15,42 +15,33 @@ The city of Des Moines, IA has requested bikeshare data to be analyzed to determ
 
 ## Cleaning the Data:
 Jupyter Notebook was used to change the trip duration data to a datetime field.
-![Pic](https://github.com/Baylex/Citibike/blob/main/Challenge/images/before_transformation.PNG)
+![Pic](https://github.com/dannybarto/bikeshare_analysis/blob/main/Challenge/images/date%20before.png?raw=true)
 
-![Pic0](https://github.com/Baylex/Citibike/blob/main/Challenge/images/after_transformation.PNG)
+![Pic0](https://github.com/dannybarto/bikeshare_analysis/blob/main/Challenge/images/date_after.png?raw=true)
 
 ## Results of the NYC Citibikes Analysis:
-For NYC, there were some interesting geographical areas of interest.  Some trips were outside the main city center.  Other areas followed the along the river. Future analysis would need to include a geographical review.
+For NYC, there were a few notableareas of interest.   Several trips originated outside the city center while. Users also tended to use routes that follow the river. 
 
 ### 1. Checkout Times for All Users
-[Checkout Times for All Users](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Users)
-The Citibikes usage reaches a top of 3000 minutes per user.
-![Pic1](https://github.com/Baylex/Citibike/blob/main/Challenge/images/0_User.PNG)
+![Pic1](https://github.com/dannybarto/bikeshare_analysis/blob/main/Challenge/images/Checkout_Weekday_All_User%20Small.png?raw=true)
 
 ### 2. Checkout Times by Gender
-[Checkout Times by Gender](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Gender)
-Males are significantly higher users than others. 
-![Pic2](https://github.com/Baylex/Citibike/blob/main/Challenge/images/1_Gender.PNG)
+![Pic2](https://github.com/dannybarto/bikeshare_analysis/blob/main/Challenge/images/Checkout_Weekday_Gender%20Small.png?raw=true)
 
 ### 3. Trips (Weekday per Hour)
-[Trips (Weekday per Hour)](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Trips)
-6-10 am and 5-8 PM are peak riding hours during the weekday and 5 am to 10 pm on the weekends.
-![Pic3](https://github.com/Baylex/Citibike/blob/main/Challenge/images/2_Trips.PNG)
+![Pic3](https://github.com/dannybarto/bikeshare_analysis/blob/main/Challenge/images/Weekday_Trips_Hour%20Small.png?raw=true)
 
 ### 4. Trips by Gender (Weekday per Hour)
-[Trips by Gender (Weekday per Hour)](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/TripGender)
-Males are high users during the peak hours. 
-![Pic4](https://github.com/Baylex/Citibike/blob/main/Challenge/images/3_TripGender.PNG)
+![Pic4] (https://github.com/dannybarto/bikeshare_analysis/blob/main/Challenge/images/Trips_Gender_Weekday_Hour%20Small.png?raw=true)
 
 ### 5. Trips by Gender and User Type (Weekday per Hour)
-[Trips by Gender and User Type (Weekday per Hour)](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/UserType)
-Males subscribers are the highest users followed by female subscribers. 
 ![Pic5](https://github.com/Baylex/Citibike/blob/main/Challenge/images/4_UserType.PNG)
 
 ### 6. Number of Rides per Hour
 [Number of Rides per Hour](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Rides)
 Non-peak hours are 1-5 am.  
 ![Pic6](https://github.com/Baylex/Citibike/blob/main/Challenge/images/5_Rides.PNG)
+
 
 ### 7. Number of Rides with Bike ID
 [Number of Rides with Bike ID](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Repair)
