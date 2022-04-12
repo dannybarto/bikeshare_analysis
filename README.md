@@ -38,9 +38,7 @@ For NYC, there were a few notableareas of interest.   Several trips originated o
 ![Pic5](https://github.com/Baylex/Citibike/blob/main/Challenge/images/4_UserType.PNG)
 
 ### 6. Number of Rides per Hour
-[Number of Rides per Hour](https://public.tableau.com/profile/julie.pyle2236#!/vizhome/Mod_14_Challenge/Rides)
-Non-peak hours are 1-5 am.  
-![Pic6](https://github.com/Baylex/Citibike/blob/main/Challenge/images/5_Rides.PNG)
+![Pic6](https://github.com/dannybarto/bikeshare_analysis/blob/main/Challenge/images/Rides_Hour.png?raw=true)
 
 
 ### 7. Number of Rides with Bike ID
